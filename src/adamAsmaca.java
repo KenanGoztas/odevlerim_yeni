@@ -68,12 +68,11 @@ public class adamAsmaca {
             }
 
             System.out.println();
+            //test sssss
 
         }
 
-        if (dogru != kelime.length()) {
-            System.out.println("Uzgunum... Dogru yanit " + kelime);
-        }
+
 
 
     }
